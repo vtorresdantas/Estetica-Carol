@@ -8,4 +8,4 @@ Tecnologias utilizadas:
 - CSS
 - JavaScript
 
-Acesso o link no site:
+Acesso o link do site: https://vtorresdantas.github.io/Estetica-Carol/
